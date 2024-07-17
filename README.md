@@ -16,5 +16,7 @@
 ## 3. 培养
 
 1. OpenHarmony 南向开发
-2. 嵌入式Linux学习
-3. Docker工具的基础使用
+>【鸿蒙南向开发教程【OpenHarmony】https://www.bilibili.com/video/BV1N4421X75y?vd_source=83dda7469933b46fcc614109e61a8066
+2. Docker工具的基础使用
+>【【GeekHour】30分钟Docker入门教程】https://www.bilibili.com/video/BV14s4y1i7Vf?vd_source=83dda7469933b46fcc614109e61a8066
+3. 嵌入式Linux学习
