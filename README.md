@@ -40,3 +40,5 @@
     - WS63E星闪开发板研发
 
 ## 4. 学习资料汇总
+示例:
+- [【鸿蒙南向开发教程(OpenHarmony)】-7.19李浩楠](https://www.bilibili.com/video/BV1N4421X75y?vd_source=83dda7469933b46fcc614109e61a8066)
