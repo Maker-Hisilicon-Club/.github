@@ -20,6 +20,7 @@
 2. Docker工具的基础使用
 >[【GeekHour】30分钟Docker入门教程】](https://www.bilibili.com/video/BV14s4y1i7Vf?vd_source=83dda7469933b46fcc614109e61a8066)
 3. 嵌入式Linux学习
+>线上培训
 
 ###  时间规划
 1. OpenHarmony 南向开发深入
