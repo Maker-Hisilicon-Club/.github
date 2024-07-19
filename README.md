@@ -29,7 +29,7 @@
 
 - [Markdown 官方教程-7.19李浩楠](https://markdown.com.cn/)
 
-- 鸿蒙官方库+文档链接：
+- 鸿蒙官方库+文档链接 - 7.19何广远：
 
   https://www.bing.com/ck/a?!&&p=fa2fb4841291f3e4JmltdHM9MTcyMTI2MDgwMCZpZ3VpZD0wODNmMzRlNi1jOWFhLTY5MWItMDI5Ni0yMDcyYzg2MTY4OWImaW5zaWQ9NTE4NA&ptn=3&ver=2&hsh=3&fclid=083f34e6-c9aa-691b-0296-2072c861689b&psq=openharmony%e5%8d%97%e5%90%91%e5%bc%80%e5%8f%91%e5%ae%98%e6%96%b9%e6%96%87%e6%a1%a3&u=a1aHR0cHM6Ly9naXRlZS5jb20vb3Blbmhhcm1vbnkvZG9jcw&ntb=1
 
