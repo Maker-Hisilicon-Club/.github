@@ -21,7 +21,7 @@
 
 [海思开发者生态-项目KPI](https://zdqy7ear4m.feishu.cn/wiki/DlFCwbGl0iNTXmkWp9wcv6KSnCd?from=from_copylink)
 
-### 行动方针
+## 行动方针
 
 - 掌握海思星闪开发技术
 - 复刻开源项目功能
