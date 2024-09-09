@@ -1,12 +1,15 @@
+<div align="center">
+  <h1>IOS-海思开发者生态部门</h1>
+</div>
+
 <p align="center">
 <img src="https://abrillant-lee.github.io/Hisilicon/HISILICON.jpg" width="300" />
 </p>
 
 <p align="center">
-IOS-海思开发者生态部门
+ 海思社区：https://developer.hisilicon.com/forum/all  
 </p>
 
-> 海思社区：https://developer.hisilicon.com/forum/all  
 
 ##  部门事务 
 - Hisilicon嵌入式技术成长指南  
